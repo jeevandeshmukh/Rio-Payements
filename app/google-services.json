@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1024338519220",
+    "firebase_url": "https://rio-payment.firebaseio.com",
+    "project_id": "rio-payment",
+    "storage_bucket": "rio-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024338519220:android:fb3f77b842d6e20d",
+        "android_client_info": {
+          "package_name": "com.bytelogs.riopayments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024338519220-pd93nksrrug5sec7g338fialspenjaj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-UCu6P2E1_z78S_HDt8UiR4s5UWy8Ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
